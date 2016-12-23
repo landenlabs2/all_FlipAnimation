@@ -1,8 +1,9 @@
 .gradle
-/local.properties
+*.iml
 /.idea/workspace.xml
 /.idea/libraries
+build
+local.properties
 .DS_Store
-/build
-.idea
-AndroidFlipAnimation.iml
+/captures
+
