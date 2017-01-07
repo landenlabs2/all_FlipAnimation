@@ -1,4 +1,4 @@
-# AndroidFlipAnimation
+# a LanDen Labs - AndroidFlipAnimation
 Android demo of View rotation animation as if views are on a prism
 
 ***
