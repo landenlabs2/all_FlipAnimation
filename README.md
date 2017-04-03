@@ -4,7 +4,7 @@ Android demo of View rotation animation as if views are on a prism
 
 ***
 +Moved Latest GitHub project to:
-+[https://github.com/landenlabs/all_Flip)
+[https://github.com/landenlabs/all_Flip)
 ***
 
 ***
