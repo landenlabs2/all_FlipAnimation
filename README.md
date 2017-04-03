@@ -1,11 +1,10 @@
 # a LanDen Labs - AndroidFlipAnimation
 Android demo of View rotation animation as if views are on a prism
 
-
-***
-+Moved Latest GitHub project to:
+##<<span style="color:red">Project has moved back to:</span>
 https://github.com/landenlabs/all_Flip
-***
+
+
 
 ***
 Web Page with more details and live examples:
